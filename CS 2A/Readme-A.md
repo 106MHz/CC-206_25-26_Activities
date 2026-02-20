@@ -15,8 +15,8 @@ Before submitting any activities, especially if it is your first time, please do
 3. Once cloned, navigate to your respective folder (CS 2A), and create a new folder with the name "FULL_NAME" (all caps, no spaces, _ as the delimiter), i.e. TOPE_MATEO
 
 Every time you submit a coding activity, make sure to the following:
-1. Your file name should have the TEMPLATE: LAST_NAME-ACTIVITY_NAME, i.e. (MATEO-EXERCISE_1)
-2. Put the file to your respective folder.
+1. Your file name should have the format: LAST_NAME-ACTIVITY_NAME, i.e. (MATEO-EXERCISE_1). If your activity/exercise contains multiple files, create a folder with the stated name formatting.
+2. Put the file/folder to your respective folder.
 3. Make sure that you have done the holy trinity of git, (ADD, COMMIT, PUSH)
 4. Go to the forked Github link, and find the indicator that your repository is ahead of the original repository.
 5. Click that to create a pull request, make sure to modify the description (i.e. This is my exercise's python notebook)
